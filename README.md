@@ -57,37 +57,37 @@
 </h4>
 
 <table style="width:100%;border:0;"><tr><td colspan="2">
-  <div style="align-items:center;">
+  <div style="width:100%;align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_frente.png)
 
   </div>
 </td><td colspan="2">
-  <div style="align-items:center;">
+  <div style="width:100%;align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_verso.png)
 
   </div>
 </td></tr><tr><td>
-  <div style="align-items:center;">
+  <div style="width:100%;align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint03_badge-forumhub.png)
 
   </div>
 </td><td>
-  <div style="align-items:center;">
+  <div style="width:100%;align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint02_badge-literalura.png)
 
   </div>
 </td><td>
-  <div style="align-items:center;">
+  <div style="width:100%;align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_badge-conversor.png)
 
   </div>
 </td><td>
-  <div style="align-items:center;">
+  <div style="width:100%;align-items:center;">
       
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_cms_files_10224_1671211139Prancheta_3.png)
 
