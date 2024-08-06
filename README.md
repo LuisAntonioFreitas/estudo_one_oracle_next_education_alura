@@ -63,6 +63,11 @@
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_verso.png)
 
+</td></tr><tr><td colspan="2">
+
+#### Link | Certificado 
+[https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e](https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e)
+
 </td></tr></table>
 
 ## 🧭 Descrição<a id="description"></a>
