@@ -108,7 +108,7 @@
 
 ---
 
-## 📋 Certificações<a id="certifications"></a>
+## 🎓 Certificações<a id="certifications"></a>
 
 
 
