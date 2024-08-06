@@ -56,26 +56,19 @@
   *Certificado* 
 </h4>
 
-<table style="width:100%;"><tr><td>
+<table style="width:100%;"><tr><td colspan="2">
   <div style="align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_frente.png)
 
   </div>
-</td><td>
+</td><td colspan="2">
   <div style="align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_verso.png)
 
   </div>
-</td></tr><tr><td colspan="2">
-
-#### Link | Certificado<br>
-[https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e](https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e)
-
-</td></tr></table>
-
-<table style="width:100%;border:0;border-style:solid;"><tr><td>
+</td></tr><tr><td>
   <div style="align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_cms_files_10224_1671211139Prancheta_3.png)
@@ -99,7 +92,12 @@
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint03_badge-forumhub.png)
 
   </div>
-</td></tr></table>
+</td></tr><tr><td colspan="4">
+
+#### Link | Certificado<br>
+[https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e](https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e)
+
+---
 
 ## 🧭 Descrição<a id="description"></a>
 
