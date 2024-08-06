@@ -56,9 +56,13 @@
 </h4>
 
 <table><tr><td>
+
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_frente.png)
+
 </td><td>
+
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_verso.png)
+
 </td></tr></table>
 
 ## 🧭 Descrição<a id="description"></a>
