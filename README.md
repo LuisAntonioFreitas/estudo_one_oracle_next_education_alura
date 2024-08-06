@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="#description">Descrição</a> •
-  <a href="#contents">Conteúdo</a> •
+  <a href="#contents">Conteúdo e Desafios</a> •
   <a href="#certifications">Certificações</a> •
   <a href="#credits">Créditos</a> •
   <a href="#license">Licença</a>
@@ -92,9 +92,9 @@
 
 ---
 
-## 📋 Conteúdo<a id="contents"></a>
+## 📋 Conteúdo e Desafios<a id="contents"></a>
 
-* 0 | Scratch (Introdução)
+<!-- * 0 | Scratch (Introdução)
 * 1 | C (Introdução)
 * 2 | C - Arrays (Matrizes)
 * 3 | C - Algoritmos (Algoritmos e Métodos de Pesquisa)
@@ -104,7 +104,7 @@
 * 7 | SQL (Apresentação da Linguagem de Banco de Dados)
 * 8 | HTML, CSS, JavaScript (Introdução para Web)
 * 9 | Flask (Ligando a Web ao Banco de Dados)
-* 10 | Ética (Responsabilidade)
+* 10 | Ética (Responsabilidade) -->
 
 ---
 
