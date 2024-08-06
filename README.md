@@ -89,7 +89,7 @@
 </td><td>
   <div style="width:100%;align-items:center;">
       
-![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_cms_files_10224_1671211139Prancheta_3.png)
+[<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_cms_files_10224_1671211139Prancheta_3.png">](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_spring01_decodificador_de_texto_javascript)
 
   </div>
 </td></tr><tr><td colspan="4">
