@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="#description">Descrição</a> •
-  <a href="#contents">Conteúdo e Desafios</a> •
+  <a href="#contents">Desafios e Conteúdo</a> •
   <a href="#certifications">Certificações</a> •
   <a href="#credits">Créditos</a> •
   <a href="#license">Licença</a>
@@ -59,31 +59,31 @@
 <table style="width:100%;border:0;"><tr><td colspan="2">
   <div style="width:100%;align-items:center;">
 
-![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_frente.png)
+[<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_frente.png">](https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e)
 
   </div>
 </td><td colspan="2">
   <div style="width:100%;align-items:center;">
 
-![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_verso.png)
+[<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_verso.png">](https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e)
 
   </div>
 </td></tr><tr><td>
   <div style="width:100%;align-items:center;">
 
-![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint03_badge-forumhub.png)
+[<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint03_badge-forumhub.png">](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_sprint03_forum_hub_java_spring)
 
   </div>
 </td><td>
   <div style="width:100%;align-items:center;">
 
-![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint02_badge-literalura.png)
+[<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint02_badge-literalura.png">](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_sprint02_literalura_java_spring)
 
   </div>
 </td><td>
   <div style="width:100%;align-items:center;">
 
-![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_badge-conversor.png)
+[<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_badge-conversor.png">](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_spring01_conversor_de_moedas_java)
 
   </div>
 </td><td>
@@ -122,7 +122,7 @@
 
 ---
 
-## 📋 Conteúdo e Desafios<a id="contents"></a>
+## 📋 Desafios e Conteúdo<a id="contents"></a>
 
 * <b>Fórum Hub</b><br>
 Challenge | Sprint 03<br>
@@ -139,6 +139,8 @@ Challenge | Sprint 01<br>
 * <b>Decodificador de Texto</b><br>
 Challenge | Sprint Inicial<br>
 [https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_spring01_decodificador_de_texto_javascript](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_spring01_decodificador_de_texto_javascript)
+
+---
 
 * <b>Vollmed</b><br>
 Curso | Projeto<br>
@@ -168,7 +170,53 @@ Curso | Projeto<br>
 
 ## 🎓 Certificações<a id="certifications"></a>
 
+* **Certificado Completo**<br>
+[https://cursos.alura.com.br/user/luisantoniofreitas/fullCertificate/2ea6c01b5dce51f385eedea78739e1a9](https://cursos.alura.com.br/user/luisantoniofreitas/fullCertificate/2ea6c01b5dce51f385eedea78739e1a9)
 
+* **Programa Oracle Next Education F2 T6 Backend**<br>
+[https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e](https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e)
+
+* **Formação Java e Spring Framework T6 - ONE**<br>
+[https://cursos.alura.com.br/degree/certificate/ed1ff5f2-a7f7-4322-be3a-8494a578a21b](https://cursos.alura.com.br/degree/certificate/ed1ff5f2-a7f7-4322-be3a-8494a578a21b)
+> * ##### [Java: trabalhando com lambdas, streams e Spring Framework](https://cursos.alura.com.br/certificate/87fc0a05-bf9d-4d09-8d66-e852a1e0aaab)
+> * ##### [Java: persistência de dados e consultas com Spring Data JPA](https://cursos.alura.com.br/certificate/97b0666e-5e37-470d-8cfc-d387e360e530)
+> * ##### [Java: criando sua primeira API e conectando ao front](https://cursos.alura.com.br/certificate/e3f1aafc-d9a5-4468-b3bb-439c7b8b02b1)
+> * ##### [Praticando Spring Boot: Challenge LiterAlura](https://cursos.alura.com.br/certificate/175b8398-594f-403f-a674-005d074db735)
+> * ##### [Spring Boot 3: desenvolva uma API Rest em Java](https://cursos.alura.com.br/certificate/0c09318a-2dd4-4837-9b99-72d34b9f74fa)
+> * ##### [Spring Boot 3: aplique boas práticas e proteja uma API Rest](https://cursos.alura.com.br/certificate/8dcca288-599e-4a48-a05c-fd64754b20f5)
+> * ##### [Spring Boot 3: documente, teste e prepare uma API para o deploy](https://cursos.alura.com.br/certificate/59957905-fe41-4ef1-a754-2428fb1bdd1c)
+> * ##### [Praticando Spring Framework: Challenge Fórum Hub](https://cursos.alura.com.br/certificate/660db23e-f4b3-4236-b582-e86c059b50cc)
+
+* **Formação Java e Orientação a Objetos T6 - ONE**<br>
+[https://cursos.alura.com.br/degree/certificate/8cea9a25-a7b4-4ca9-8a24-ed9db76fa227](https://cursos.alura.com.br/degree/certificate/8cea9a25-a7b4-4ca9-8a24-ed9db76fa227)
+> * ##### [Java: criando a sua primeira aplicação](https://cursos.alura.com.br/certificate/454dbdfb-40bc-4b7d-af6e-fd6043592386)
+> * ##### [Java: aplicando a Orientação a Objetos](https://cursos.alura.com.br/certificate/769c03ec-013c-464c-b4d8-8d7f6cb3ffa5)
+> * ##### [Java: trabalhando com listas e coleções de dados](https://cursos.alura.com.br/certificate/0b8563a3-2337-491f-9f23-7b5d6e1993f7)
+> * ##### [Java: consumindo API, gravando arquivos e lidando com erros](https://cursos.alura.com.br/certificate/42777b70-3ca5-494a-9c74-39f99ed8142f)
+> * ##### [Praticando Java: Challenge conversor de moedas](https://cursos.alura.com.br/certificate/742c712c-a05d-4467-90ec-e705ec9f42e5)
+
+* **Formação Iniciante em Programação T6 - ONE**<br>
+[https://cursos.alura.com.br/degree/certificate/6e0167ab-e2a7-41a5-abd3-3cfc6204435a](https://cursos.alura.com.br/degree/certificate/6e0167ab-e2a7-41a5-abd3-3cfc6204435a)
+> * ##### [Lógica de programação: mergulhe em programação com JavaScript](https://cursos.alura.com.br/certificate/9855fa45-5ba2-42bd-a0b2-a93bdd3e6fae)
+> * ##### [Lógica de programação: explore funções e listas](https://cursos.alura.com.br/certificate/0a449d31-22a7-460e-8c01-a6c0949462b2)
+> * ##### [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/certificate/b5308c6d-af77-456b-a51f-415f33acae1e)
+> * ##### [HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/certificate/139d9661-cd8b-4693-b092-bd4807f9df2f)
+> * ##### [HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/certificate/bdc65e60-64c1-4a84-ba6e-4c04531e046b)
+> * ##### [HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/certificate/f0ef9de2-76ee-42bb-81fd-5f07c02f2a70)
+> * ##### [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/certificate/2c8cd8a1-35e5-4541-b0d8-39db2afeb95f)
+
+* **Formação SQL com MySQL Server da Oracle**<br>
+[https://cursos.alura.com.br/degree/certificate/83693f85-955f-426e-9fd0-fb156966a590](https://cursos.alura.com.br/degree/certificate/83693f85-955f-426e-9fd0-fb156966a590)
+> * ##### [SQL com MySQL: manipule e consulte dados](https://cursos.alura.com.br/certificate/d19be4f0-4831-48f4-a5e0-aa06f5d5ff89)
+> * ##### [Consultas SQL: avançando no SQL com MySQL](https://cursos.alura.com.br/certificate/6ad3c7d0-f503-4977-9a85-52eb7980a55d)
+> * ##### [Comandos DML: manipulação de dados com MySQL](https://cursos.alura.com.br/certificate/c0091cbe-7deb-4cb5-880b-d7987417a758)
+> * ##### [Procedures SQL: executando código no MySQL](https://cursos.alura.com.br/certificate/31d74031-f16a-43f9-a74c-9c495b380a00)
+> * ##### [Administração do MySQL: segurança e otimização do banco](https://cursos.alura.com.br/certificate/b27d3645-9097-4679-bafc-e68a142167ff)
+
+* **Formação OCI Oracle Cloud Infrastructure**<br>
+[https://cursos.alura.com.br/degree/certificate/61337f83-03dd-406e-8b82-45f7fea0eea8](https://cursos.alura.com.br/degree/certificate/61337f83-03dd-406e-8b82-45f7fea0eea8)
+> * ##### [Oracle Cloud Infrastructure: implantação de uma aplicação na nuvem](https://cursos.alura.com.br/certificate/3232576b-58c2-4d2b-89a6-6c95b7c37193)
+> * ##### [Oracle Cloud Infrastructure: banco de dados e infraestrutura como código](https://cursos.alura.com.br/certificate/0b418c8b-6a3a-41ac-868b-b80a611024b0)
 
 ---
 
