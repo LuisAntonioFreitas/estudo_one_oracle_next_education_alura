@@ -57,13 +57,13 @@
 </h4>
 
 <table style="width:100%;border:0;"><tr><td colspan="2">
-  <div style="width:92%;align-items:center;">
+  <div style="align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_frente.png)
 
   </div>
 </td><td colspan="2">
-  <div style="width:100%;align-items:center;">
+  <div style="align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_verso.png)
 
@@ -71,13 +71,7 @@
 </td></tr><tr><td>
   <div style="align-items:center;">
 
-![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_cms_files_10224_1671211139Prancheta_3.png)
-
-  </div>
-</td><td>
-  <div style="align-items:center;">
-
-![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_badge-conversor.png)
+![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint03_badge-forumhub.png)
 
   </div>
 </td><td>
@@ -88,8 +82,14 @@
   </div>
 </td><td>
   <div style="align-items:center;">
+
+![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_badge-conversor.png)
+
+  </div>
+</td><td>
+  <div style="align-items:center;">
       
-![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint03_badge-forumhub.png)
+![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_cms_files_10224_1671211139Prancheta_3.png)
 
   </div>
 </td></tr><tr><td colspan="4">
@@ -123,18 +123,6 @@
 ---
 
 ## 📋 Conteúdo e Desafios<a id="contents"></a>
-
-<!-- * 0 | Scratch (Introdução)
-* 1 | C (Introdução)
-* 2 | C - Arrays (Matrizes)
-* 3 | C - Algoritmos (Algoritmos e Métodos de Pesquisa)
-* 4 | C - Memória
-* 5 | C - Estrutura de Dados (Hash)
-* 6 | Python (Introdução e Explanação sobre Python)
-* 7 | SQL (Apresentação da Linguagem de Banco de Dados)
-* 8 | HTML, CSS, JavaScript (Introdução para Web)
-* 9 | Flask (Ligando a Web ao Banco de Dados)
-* 10 | Ética (Responsabilidade) -->
 
 * <b>Fórum Hub</b><br>
 Challenge | Sprint 03<br>
