@@ -56,14 +56,14 @@
   *Certificado* 
 </h4>
 
-<table style="width:100%;"><tr><td colspan="2">
-  <div style="align-items:center;">
+<table style="width:100%;border:0;"><tr><td colspan="2">
+  <div style="width:92%;align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_frente.png)
 
   </div>
 </td><td colspan="2">
-  <div style="align-items:center;">
+  <div style="width:100%;align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_verso.png)
 
@@ -96,6 +96,8 @@
 
 #### Link | Certificado<br>
 [https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e](https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e)
+
+</td></tr></table>
 
 ---
 
