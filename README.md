@@ -46,6 +46,7 @@
 <p align="center">
   <a href="#description">Descrição</a> •
   <a href="#contents">Conteúdo</a> •
+  <a href="#certifications">Certificações</a> •
   <a href="#credits">Créditos</a> •
   <a href="#license">Licença</a>
 </p>
@@ -65,18 +66,29 @@
 
 </td></tr><tr><td colspan="2">
 
-#### Link | Certificado 
+#### Link | Certificado<br>
 [https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e](https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e)
 
 </td></tr></table>
 
 ## 🧭 Descrição<a id="description"></a>
 
-* É um curso educacional de ciência da computação oferecido pela Universidade de Harvard que apresenta os conceitos intelectuais da ciência da computação e da arte da programação. Este curso ensina os alunos a pensar algoritmicamente e resolver problemas com eficiência.
+* <b>A tecnologia é para todas as pessoas</b>
+* O ONE é um programa de <b>educação e empregabilidade</b> com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
+* O <b>curso é 100% online e totalmente gratuito</b>, feito para quem não teve acesso à educação de qualidade e deseja transformar a sua realidade social.
+* O programa abre as inscrições 2 vezes ao ano.
+* Cada geração de alunos cumpre uma <b>jornada de 6 meses</b>, dividida em 4 trilhas disponibilizadas na plataforma – ao todo são <b>mais de 560 horas de experiência de conteúdo</b>.
+* Ao finalizar a participação no ONE, os estudantes ainda têm a oportunidade de fazer parte da <b>comunidade AlumniONE para ex-alunos</b>, com outros benefícios gratuitos e <b>trilhas Oracle exclusivas</b>.
+* Ao concluir toda a jornada do programa, <b>você receberá um certificado</b> e poderá atuar no mercado de trabalho desenvolvendo softwares, aplicativos, redes sociais e muito mais!
 
-> **Nota**
+
+> **Formações e Conteúdos**
 >
-> * Curso de alta qualidade, muito bem elaborado e ministrado por David J. Malan. Consegue apresentar assuntos diversos que se complementam e nos inserem em vários seguimentos. Mostrando infinitas possibilidades. 
+> * <b>Lógica de programação:</b> Você vai aprender como criar programas simples, contando com Engenharia de Prompts com IA.
+> * <b>Desenvolvimento pessoal:</b> Vamos trabalhar desde a sua mudança de mentalidade para o alto desempenho até as suas habilidades de discursar em público. Prepare-se para o curso e aprimore suas habilidades de relacionamento interpessoal.
+> * <b>Empreendedorismo:</b> Explore conteúdos centrados no desenvolvimento de carreira, com temas como empreendedorismo, agilidade empresarial e protagonismo profissional.
+> * <b>Back-End:</b> Você aprenderá sobre Java e Spring Framework, dando seus primeiros passos com Java, uma linguagem de programação orientada a objetos, e conhecer a estrutura facilitadora das aplicações Java que ajuda na otimização do trabalho de desenvolvimento. Além de aumentar sua produtividade com programação em Java e ChatGPT.
+> * <b>AlumniONE:</b> Os graduados terão acesso às trilhas de conhecimento abrangendo OCI - Oracle Cloud Infrastructure, MySQL - o banco de dados da Oracle, e, agora, serão beneficiados com conteúdos sobre Inteligência Artificial (IA).<br>Essa expansão visa manter os graduados atualizados com as últimas tendências e inovações do mercado, capacitando-os para enfrentar os desafios contemporâneos com confiança e competência.
 
 ---
 
@@ -96,14 +108,16 @@
 
 ---
 
-## ⭐ Créditos<a id="credits"></a>
+## 📋 Certificações<a id="certifications"></a>
 
-* [CS50 | edX | Computer Science Courses and Programs from Harvard](https://www.edx.org/cs50)
-* [CS50x | Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
-* [Harvard University](https://www.harvard.edu/)
-* [Fundação Estudar](https://www.estudar.org.br/)
-* [Na Prática](https://www.napratica.org.br/)
-* [CC50 | Curso de Ciência da Computação de Harvard no Brasil](https://materiais.napratica.org.br/cc50)
+
+
+---
+
+## ⭐ Créditos<a id="creditos"></a>
+
+* [Oracle One](https://www.oracle.com/br/education/oracle-next-education/)
+* [Alura](https://www.alura.com.br/)
 
 ---
 
