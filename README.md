@@ -56,19 +56,49 @@
   *Certificado* 
 </h4>
 
-<table><tr><td>
+<table style="width:100%;"><tr><td>
+  <div style="align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_frente.png)
 
+  </div>
 </td><td>
+  <div style="align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/readme/certificado_one_oracle_next_education_verso.png)
 
+  </div>
 </td></tr><tr><td colspan="2">
 
 #### Link | Certificado<br>
 [https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e](https://cursos.alura.com.br/program/certificate/931879ed-6ecf-48a9-a21c-a162a5edd14e)
 
+</td></tr></table>
+
+<table style="width:100%;"><tr><td>
+  <div style="align-items:center;">
+
+![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_cms_files_10224_1671211139Prancheta_3.png)
+
+  </div>
+</td><td>
+  <div style="align-items:center;">
+
+![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_badge-conversor.png)
+
+  </div>
+</td><td>
+  <div style="align-items:center;">
+
+![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint02_badge-literalura.png)
+
+  </div>
+</td><td>
+  <div style="align-items:center;">
+      
+![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_sprint03_badge-forumhub.png)
+
+  </div>
 </td></tr></table>
 
 ## 🧭 Descrição<a id="description"></a>
@@ -105,6 +135,46 @@
 * 8 | HTML, CSS, JavaScript (Introdução para Web)
 * 9 | Flask (Ligando a Web ao Banco de Dados)
 * 10 | Ética (Responsabilidade) -->
+
+* <b>Fórum Hub</b><br>
+Challenge | Sprint 03<br>
+[https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_sprint03_forum_hub_java_spring](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_sprint03_forum_hub_java_spring)
+
+* <b>LiterAlura</b><br>
+Challenge | Sprint 02<br>
+[https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_sprint02_literalura_java_spring](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_sprint02_literalura_java_spring)
+
+* <b>Conversor de Moedas</b><br>
+Challenge | Sprint 01<br>
+[https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_spring01_conversor_de_moedas_java](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_spring01_conversor_de_moedas_java)
+
+* <b>Decodificador de Texto</b><br>
+Challenge | Sprint Inicial<br>
+[https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_spring01_decodificador_de_texto_javascript](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_spring01_decodificador_de_texto_javascript)
+
+* <b>Vollmed</b><br>
+Curso | Projeto<br>
+[https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_cursos_2771_2770_2700_vollmed_java_spring](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_cursos_2771_2770_2700_vollmed_java_spring)
+
+* <b>ScreenMatch Frases</b><br>
+Curso | Projeto<br>
+[https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_desafio_3356_screenmatch_frases_java_spring](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_desafio_3356_screenmatch_frases_java_spring)
+
+* <b>Screen Sound</b><br>
+Curso | Projeto<br>
+[https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_desafio_3355_screen_sound_java_spring](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_desafio_3355_screen_sound_java_spring)
+
+* <b>Tabela FIPE</b><br>
+Curso | Projeto<br>
+[https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_desafio_3257_tabela_fipe_java_spring](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_desafio_3257_tabela_fipe_java_spring)
+
+* <b>Conta Virtual</b><br>
+Curso | Projeto<br>
+[https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_desafio_2858_conta_virtual_java](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_desafio_2858_conta_virtual_java)
+
+* <b>Consultar CEP</b><br>
+Curso | Projeto<br>
+[https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_desafio_2944_consultar_cep_java](https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_desafio_2944_consultar_cep_java)
 
 ---
 
