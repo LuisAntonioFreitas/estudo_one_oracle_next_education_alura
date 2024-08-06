@@ -75,7 +75,7 @@
 
 </td></tr></table>
 
-<table style="width:100%;"><tr><td>
+<table style="width:100%;border:0;border-style:solid;"><tr><td>
   <div style="align-items:center;">
 
 ![screenshot](https://raw.githubusercontent.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura/main/assets/badge/one_spring01_cms_files_10224_1671211139Prancheta_3.png)
