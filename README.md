@@ -220,7 +220,7 @@ Curso | Projeto<br>
 
 ---
 
-## ⭐ Créditos<a id="creditos"></a>
+## ⭐ Créditos<a id="credits"></a>
 
 * [Oracle One](https://www.oracle.com/br/education/oracle-next-education/)
 * [Alura](https://www.alura.com.br/)
