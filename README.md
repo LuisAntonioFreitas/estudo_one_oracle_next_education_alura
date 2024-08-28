@@ -224,7 +224,7 @@ Curso | Projeto<br>
 
 * **Formação IA Generativa**<br>
 [https://cursos.alura.com.br/degree/certificate/3d5d6cde-12c7-4644-bc58-716e07644028](https://cursos.alura.com.br/degree/certificate/3d5d6cde-12c7-4644-bc58-716e07644028)
-> * ##### [ChatGPT e programação: aumente sua produtividade](https://cursos.alura.com.br/certificate/8673f1e2-bdc4-461b-ad2a-902847e0838d)
+> * ##### [ChatGPT: otimizando a qualidade dos resultados](https://cursos.alura.com.br/certificate/8673f1e2-bdc4-461b-ad2a-902847e0838d)
 > * ##### [ChatGPT e JavaScript: construa o jogo Pong](https://cursos.alura.com.br/certificate/f2f5649b-29a8-4044-8cfb-3c87e68e10dc)
 > * ##### [ChatGPT e programação: aumente sua produtividade](https://cursos.alura.com.br/certificate/06c0fed1-84b9-495a-8eb4-9c8efbab50f8)
 
