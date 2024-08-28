@@ -32,6 +32,7 @@
   <a alt="CSS3">
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" />
   </a>
+  <br>
   <a alt="Javascript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" />
   </a>
@@ -40,6 +41,9 @@
   </a>
   <a alt="Oracle">
     <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat-square" />
+  </a>
+    <a alt="OpenAI">
+    <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat-square" />
   </a>
 </p>
 
